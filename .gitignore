@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+
+# START Ruler Generated Files
+*.bak
+.gemini/settings.json
+.gemini/settings.json.bak
+AGENTS.md
+AGENTS.md.bak
+GEMINI.md
+GEMINI.md.bak
+PROJECT.md
+# END Ruler Generated Files
