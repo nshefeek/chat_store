@@ -97,6 +97,7 @@ volumes:
   redis_data:
   pgadmin_data:
 
-networks:Sharlin
+networks:
+  sharelink_network:
   default:
     name: chat_store_network
